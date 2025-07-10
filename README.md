@@ -97,11 +97,15 @@
 ## 💡 Fun Corner
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C3D1D9" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=0D1117" alt="Jokes Card" />
 </div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=0D1117&color=F85D7F&line=F8D866&point=C3D1D9&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
