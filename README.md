@@ -13,27 +13,19 @@
 
 ## 🚀 About Me
 
-```javascript
-const anshu = {
-    location: "India 🇮🇳",
-    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue.js"],
-            css: ["Tailwind CSS", "Bootstrap", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js"],
-            python: ["FastAPI", "Django"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        devOps: ["Docker", "GitHub Actions", "AWS"],
-        tools: ["Git", "Postman", "VS Code", "Figma"]
-    },
-    currentFocus: "Building scalable web applications with modern tech stack",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
-```
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer+from+India+🇮🇳;Building+scalable+web+applications+with+MERN+stack;Always+exploring+new+technologies+and+AI+integrations" alt="About Me Typing" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<p align="center">
+  🎯 <strong>Dream-debugger</strong> who believes in building tech with compassion<br>
+  🌟 <strong>MERN Stack Specialist</strong> crafting seamless user experiences<br>
+  🚀 <strong>AI Enthusiast</strong> exploring the future of technology
+</p>
 
 ---
 
