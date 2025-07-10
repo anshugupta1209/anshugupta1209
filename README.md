@@ -36,7 +36,7 @@
 <td width="50%">
 
 ### 🔭 What I'm Working On
-- 🌟 **[Project Name](link)** - Brief description
+- 🌟 **[Harmony Bookings](link)** - Brief description
 - 🚀 Building full-stack applications with MERN
 - 🤖 Exploring AI integrations in web apps
 - 📱 Learning mobile development with React Native
